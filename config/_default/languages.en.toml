@@ -12,13 +12,13 @@ title = "iKewk"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
-[author]
-  name = "Red Blowfish"
+[params.author]
+  name = "iKewk"
   image = "img/avatar.png"
-  headline = "This is my website with my links"
-  bio = "A little bit about you"
+  headline = "stuff n shit"
+  bio = "You're journeying into an unexpected realm, a realm not only of chaos and chance but of boundless possibilities. It is the juncture where reality and fantasy intermingle, where the ordinary meets the bizarre, and it lies between the crossroads of predictability and the wilderness of whimsy. This is the domain of unpredictability. Welcome to The Arbitrary Capricious Zone."
    links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
+     { link = "https://heyfatguy.com" },
      { github = "https://github.com/kewklw/" },
      { x-twitter = "https://x.com/kewkd/" }
    ]
