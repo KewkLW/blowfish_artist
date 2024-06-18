@@ -7,14 +7,14 @@ title = "iKewk"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  # logo = "img/logo.png"
-  description = "My awesome website"
+  logo = "img/kewk.webp"
+  description = "The Arbitrary Capricious Zone"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
 [params.author]
   name = "iKewk"
-  image = "img/avatar.png"
+  image = "img/kewk.webp"
   headline = "stuff n shit"
   bio = "You're journeying into an unexpected realm, a realm not only of chaos and chance but of boundless possibilities. It is the juncture where reality and fantasy intermingle, where the ordinary meets the bizarre, and it lies between the crossroads of predictability and the wilderness of whimsy. This is the domain of unpredictability. Welcome to The Arbitrary Capricious Zone."
    links = [
