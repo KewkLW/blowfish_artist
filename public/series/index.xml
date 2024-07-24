@@ -4,8 +4,9 @@
     <title>Series on iKewk</title>
     <link>//localhost:1313/series/</link>
     <description>Recent content in Series on iKewk</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© Kewk Lightworker 2024</copyright>
     <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
