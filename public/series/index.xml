@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on iKewk</title>
-    <link>//localhost:61783/series/</link>
+    <link>//localhost:1313/series/</link>
     <description>Recent content in Series on iKewk</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="//localhost:61783/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Kewk Lightworker 2024</copyright>
+    <atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+/* custom.css */
+#matrix-canvas {
+  position: absolute; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2; /* Place behind other content */
+}
+.px-6.py-4 {
+  position: relative; /* Required for positioning the pseudo-element */
+}
+
+.px-6.py-4::before {
+  content: ""; 
+  position: absolute;
+  top: 2;
+  left: 0;
+  width: 100%;
+  height: 150%; 
+  background-color: rgba(0, 0, 0, 0.6); /* 50% black transparency */
+  z-index: -1; /* Place the overlay behind the content */
+  bottom: -25px;  /* Extend the overlay 4px below the container */ 
+}
